@@ -3,8 +3,7 @@
     <div class="help">
       <p>
         <em>
-          Click or tap anywhere on the screen to start. Click again when lights
-          go off.
+          this mah shit bro. the name's tupac. so call the cops when you se tupac.
         </em>
       </p>
     </div>
