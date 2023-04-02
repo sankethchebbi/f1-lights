@@ -70,7 +70,7 @@ export default {
 
     fuzzedLightsOut() {
       // random time between 4-7 sec
-      const fuzzyInterval = Math.random() * 1800 + 2400;
+      const fuzzyInterval = 3;
       this.fuzzerId = setTimeout(() => {
         this.clearLights();
         this.startTime = Date.now();
